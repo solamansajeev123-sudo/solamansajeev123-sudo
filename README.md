@@ -25,14 +25,6 @@ I'm a student passionate about building web applications and learning new techno
 
 ---
 
-## 📈 Current Focus
-
-* Building full-stack web applications
-* Learning modern deployment workflows
-* Exploring SaaS business models
-
----
-
 ## 📫 Connect With Me
 
 Feel free to check out my repositories and follow my journey as I learn and build.
