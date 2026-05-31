@@ -1,6 +1,4 @@
-## Hi there 💪
-
-I'm Solaman
+## Hi there 💪 I'm Solaman
 
 ### 🚀 Aspiring Software Developer
 
