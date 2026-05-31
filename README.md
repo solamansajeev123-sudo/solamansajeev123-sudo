@@ -39,4 +39,4 @@ Feel free to check out my repositories and follow my journey as I learn and buil
 
 ---
 
-> "Learn. Build. Ship. Repeat."
+
