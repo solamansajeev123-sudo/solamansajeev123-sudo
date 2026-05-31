@@ -4,11 +4,11 @@
 
 I'm a student passionate about building web applications and learning new technologies.
 
-* 🌱 Currently learning **Django, SaaS Development, and Web Deployment**
-* 🐍 Comfortable with **Python**
-* 🎯 Goal: Build and launch my own SaaS products
-* 📚 Continuously improving my programming and problem-solving skills
-* ⚡ Fun fact: I enjoy anime, TV series, and exploring new tech
+*  Currently learning **Django, SaaS Development, and Web Deployment**
+*  Comfortable with **Python**
+*  Goal: Build and launch my own SaaS products
+*  Continuously improving my programming and problem-solving skills
+*  Fun fact: I enjoy anime, TV series, and exploring new tech
 
 ---
 
