@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi there 💪
 
-<!--
-**solamansajeev123-sudo/solamansajeev123-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Solaman
 
-Here are some ideas to get you started:
+### 🚀 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student passionate about building web applications and learning new technologies.
+
+* 🌱 Currently learning **Django, SaaS Development, and Web Deployment**
+* 🐍 Comfortable with **Python**
+* 🎯 Goal: Build and launch my own SaaS products
+* 📚 Continuously improving my programming and problem-solving skills
+* ⚡ Fun fact: I enjoy anime, TV series, and exploring new tech
+
+---
+
+## 🛠️ Tech Stack
+
+* Python
+* Django
+* HTML
+* CSS
+* Git & GitHub
+* SQL
+
+---
+
+## 📈 Current Focus
+
+* Building full-stack web applications
+* Learning modern deployment workflows
+* Exploring SaaS business models
+
+---
+
+## 📫 Connect With Me
+
+Feel free to check out my repositories and follow my journey as I learn and build.
+
+---
+
+> "Learn. Build. Ship. Repeat."
