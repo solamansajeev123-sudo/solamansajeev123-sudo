@@ -16,7 +16,7 @@ I'm a student passionate about building web applications and learning new techno
 * CSS
 * Git & GitHub
 * SQL
-* 
+  
 ## 📫 Connect With Me
 
 Feel free to check out my repositories and follow my journey as I learn and build.
