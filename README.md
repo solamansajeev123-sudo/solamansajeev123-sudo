@@ -9,12 +9,9 @@ I'm a student passionate about building web applications and learning new techno
 *  Goal: Build and launch my own SaaS products
 *  Continuously improving my programming and problem-solving skills
 *  Fun fact: I enjoy anime, TV series, and exploring new tech
-
 ---
-
 ## 🛠️ Tech Stack
 
-* Python
 * Django
 * HTML
 * CSS
