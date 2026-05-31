@@ -7,7 +7,6 @@ I'm a student passionate about building web applications and turning ideas into 
 ## 🚀 About Me
 
 *  Currently learning **Django, SaaS Development, and Deployment**
-*  Comfortable with **Python**
 *  Learning **SQL and Database Design**
 *  Goal: Build and launch successful SaaS products
 *  Continuously improving my programming and problem-solving skills
